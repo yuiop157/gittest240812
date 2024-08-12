@@ -9,6 +9,10 @@
 <body>
 <h1>test.jsp</h1>
 <h1>git test</h1>
+<<<<<<< HEAD
 <h1>eclipse update</h1>
+=======
+<h1>github update</h>
+>>>>>>> branch 'main' of https://github.com/yuiop157/gittest240812.git
 </body>
 </html>
